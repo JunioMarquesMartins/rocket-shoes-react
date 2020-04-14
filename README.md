@@ -18,7 +18,7 @@ You will also see any lint errors in the console.
 ### `install JSON Server`
 <pre>npm install -g json-server</pre>
 
-### `start JSON with Alternative port`
+### `start JSON Server with Alternative port`
 <pre>json-server --watch server.json --port 3333</pre>
 
 ![](rocket-shoes.gif)
