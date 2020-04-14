@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `Download dependecies run`
+<pre>yarn</pre>
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
@@ -17,3 +20,5 @@ You will also see any lint errors in the console.
 
 ### `start JSON with Alternative port`
 <pre>json-server --watch server.json --port 3333</pre>
+
+![](rocket-shoes.gif)
